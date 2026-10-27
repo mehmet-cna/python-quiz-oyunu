@@ -14,8 +14,8 @@ sorular = [
     "13. Bir gölde her gün iki katına çıkan nilüferler var. Gölün tamamı 48 günde kaplandığına göre, yarısı kaçıncı günde kaplanmıştır?\n A-) 24\n B-) 47\n C-) 12\n D-) 36\n",
     "14. Bir sepette 5 elma var. 5 kişiye, sepette 1 elma kalacak şekilde birer elma dağıtılırsa bu nasıl mümkün olur?\n A-) İmkânsızdır\n B-) Biri yarım elma alır\n C-) Son kişiye elma sepetle verilir\n D-) Elmalardan biri çürüktür\n",
     "15. 30'u yarıma (0.5) bölüp 10 eklerseniz sonuç kaç olur?\n A-) 25\n B-) 70\n C-) 40\n D-) 50\n",
-    "16. Düz bir çizgide dizilmiş 3 ördek var. İki ördeğin önünde bir ördek, iki ördeğin arkasında bir ördek ve iki ördeğin ortasında bir ördek var. Toplam kaç ördek vardır?\n A-) 3\n B-) 4\n C-) 5\n D-) 6\n",
-    "17. Bir odada 4 köşe var. Her köşede bir kedi, her kedinin karşısında 3 kedi ve her kedinin kuyruğunda bir kedi oturuyor. Odada kaç kedi vardır?\n A-) 16\n B-) 12\n C-) 4\n D-) 8\n",
+    "16. Bir saat ustası bir saati tamir etmek için 3 dakika harcıyor. 10 saati aynı tempoda tamir etmesi kaç dakika sürer?\n a-) 30 dakika\n b-) 27 dakika\n c-) 33 dakika\n d-) 3 dakika\n",
+    "17. 5 makine, 5 dakikada 5 düğme üretiyorsa; 100 makine, 100 düğmeyi kaç dakikada üretir?\n a-) 100 dakika\n b-) 50 dakika\n c-) 5 dakika\n d-) 1 dakika\n",
     "18. Bir tuğlanın ağırlığı 1 kg artı yarım tuğla kadardır. Bir tuğla kaç kg'dır?\n A-) 1.5 kg\n B-) 2 kg\n C-) 2.5 kg\n D-) 3 kg\n",
     "19. 10 metrelik bir kuyuya düşen kurbağa her gün 3 metre yukarı zıplıyor, gece ise uyurken 2 metre aşağı kayıyor. Kurbağa kaç günde kuyudan çıkar?\n A-) 10 gün\n B-) 8 gün\n C-) 7 gün\n D-) 9 gün\n",
 	"20. Bir elektrikli tren kuzeye doğru 80 km/s hızla gidiyor. Rüzgar ise güneye doğru 20 km/s hızla esiyor. Trenin dumanı hangi yöne doğru uçar?\n A-) Güneye\n B-) Kuzeye\n C-) Batıya\n D-) Elektrikli trenin dumanı çıkmaz\n"
